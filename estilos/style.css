@@ -18,8 +18,8 @@
 }
 
 body {
-    background-image: url('../imagens/black-and-white-sport-fight-boxer.jpg');
-    background-size: 500px 500px;
+    background: #2d3540 url('../imagens/black-and-white-sport-fight-boxer.jpg') center center no-repeat fixed;
+    background-size: cover;
 }
 
 header {
